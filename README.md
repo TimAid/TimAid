@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimAid
 - 👀 I’m interested in IOS development 
-- 🌱 I’m currently learning swift git
+- 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate with Tinkoff
 - 📫 How to reach me 
 - Phone num: +86 15958080649
