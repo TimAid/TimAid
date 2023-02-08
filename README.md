@@ -6,7 +6,7 @@
 - Phone num: +7(962)5344418
 - my email : vip.firemen@icloud.com
 - my instagram: timur_hao
-- my telegram: @timaid
+- my telegram: @timmanhao
 - my vk : @jikax
 
 <!---
